@@ -22,19 +22,12 @@ All functionality runs 100% on the client side using pure HTML5, CSS3, and Vanil
 
 You can launch and test this website locally using any of the following methods:
 
-### Method 1: Python Built-in Static Server (Recommended)
-Run the following command in PowerShell / Terminal from the project directory:
-```bash
-python -m http.server 8000
-```
-Then navigate to: **[http://localhost:8000](http://localhost:8000)**
-
-### Method 2: VS Code Live Server
+### Method 1: VS Code Live Server
 1. Open the project folder in **Visual Studio Code**.
 2. Right-click `index.html` and select **"Open with Live Server"**.
 3. The site will automatically open at `http://127.0.0.1:5500/index.html`.
 
-### Method 3: Direct Browser Launch
+### Method 2: Direct Browser Launch
 Double-click `index.html` or right-click `index.html` -> **Open with** -> **Google Chrome** (or Edge, Firefox, Safari).
 
 ---
